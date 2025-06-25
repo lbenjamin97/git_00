@@ -16,13 +16,9 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 “You are old, Father William,” the young man said,
-
 “And your hair has become very white;
-
 And yet you incessantly stand on your head –
-
 Do you think, at your age, it is right?”
-
 “In my youth,” Father William replied to his son,
 
 ## Second Verse
@@ -37,16 +33,41 @@ Do you think, at your age, it is right?”
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 The sun was shining on the sea,
-     
 Shining with all his might:
-
 He did his very best to make
-    
 The billows smooth and bright —
-
 And this was odd, because it was the middle of the night.
 
 
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+You may write me down in history
+With your bitter, twisted lies,
+You may trod me in the very dirt
+But still, like dust, I'll rise.
+
+Does my sassiness upset you?
+Why are you beset with gloom?
+’Cause I walk like I've got oil wells
+Pumping in my living room.
+
+Just like moons and like suns,
+With the certainty of tides,
+Just like hopes springing high,
+Still I'll rise.
+
+Did you want to see me broken?
+Bowed head and lowered eyes?
+Shoulders falling down like teardrops,
+Weakened by my soulful cries?
+
+Does my haughtiness offend you?
+Don't you take it awful hard
+’Cause I laugh like I've got gold mines
+Diggin’ in my own backyard.
+
+
+
+
+
